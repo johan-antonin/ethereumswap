@@ -159,7 +159,7 @@ class App extends Component {
 
 // Block to execute sellToken function
   sellTokens = (tokenAmount) => {
-    this.setState({ loading: true })
+    //this.setState({ loading: true })
     this.state.token.methods.approve(this.state.ethSwapAddress, tokenAmount)
                             .send({ from: this.state.account })
                             .on('transactionHash', (hash) => {
@@ -169,7 +169,7 @@ class App extends Component {
                                 const Tx = hash 
                                 this.setState({Tx : Tx })
         this.loadBlockchainData()
-        this.setState({ loading: false })
+        //this.setState({ loading: false })
       })
     })
   }
