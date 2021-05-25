@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "23f047e6f07695abd1a9",
+    "revision": "4dfe709a115043e0f9ac",
     "url": "/ethereumswap/static/css/main.bc4588a5.chunk.css"
   },
   {
-    "revision": "23f047e6f07695abd1a9",
-    "url": "/ethereumswap/static/js/main.c2f66397.chunk.js"
+    "revision": "4dfe709a115043e0f9ac",
+    "url": "/ethereumswap/static/js/main.b4e5cda4.chunk.js"
   },
   {
     "revision": "dcd1b1467313cf7d640d",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ethereumswap/static/media/logoiata.6f6ad4e2.png"
   },
   {
-    "revision": "ce95ec6117bc5709c47cf9b08c3a1edb",
+    "revision": "45f361e85255ce9af3e9333aee219cbc",
     "url": "/ethereumswap/index.html"
   }
 ];
